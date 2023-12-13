@@ -1,4 +1,4 @@
-def imageName="ppacieq/backend"
+def imageName="ppaciekq/backend"
 def dockerTag=""
 def dockerRegistry=""
 def registryCredentials="dockerhub"
